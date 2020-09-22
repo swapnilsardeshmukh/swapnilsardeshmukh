@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Swapnil Sardeshmukh✨
 #### I am Web Developer Student💻. Love to Design it and also learn it ♥.
-![I am Web Developer Student. Love to Design it and also learn it.]
 
 I started learning to code when I was in 11th standard. Over time, I have gained a wealth of experience designing and developing mobile and web applications.
 But my best skill is actually playing Chess. I love playing Chess♟. I love Checkers too as its similar to Chess.
